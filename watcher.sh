@@ -4,7 +4,7 @@
 # Define Variables
 NAMESPACE="sre"
 DEPLOYMENT_NAME="swype-app"
-MAX_RESTARTS=3
+MAX_RESTARTS=5
 
 # Start an infinite loop
 while true; do
